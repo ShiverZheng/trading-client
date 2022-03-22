@@ -79,3 +79,5 @@ rules:
         afterColon: true 
   space-before-blocks: 'error'
   no-restricted-syntax: 'off'
+  no-use-before-define: 'off'
+  '@typescript-eslint/no-use-before-define': 'error'
